@@ -45,7 +45,7 @@ public class MainActivity extends ActionBarActivity {
 
         int price = calculatePrice(hasWhippedCream, hasChocolate, hasNutmeg, hasVanillaPowder);
         String priceMessage = createOrderSummary(name, price, hasWhippedCream, hasChocolate, hasNutmeg, hasVanillaPowder);
-        displayMessage(priceMessage);
+        //displayMessage(priceMessage);
 
         Intent intent = new Intent(Intent.ACTION_SENDTO);
         intent.setData(Uri.parse("mailto:")); // only email apps should handle this
@@ -79,9 +79,9 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-    private void displayMessage(String message) {
+    /*private void displayMessage(String message) {
         TextView orderSummaryTextView = (TextView) findViewById(R.id.order_summary_text_view);
-        orderSummaryTextView.setText(message);
+        orderSummaryTextView.setText(message);*/
     }
 
     int quantity= 2;
