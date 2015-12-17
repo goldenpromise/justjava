@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Promise Just Java</string>
+    <string name="hello_world">QUANTITE</string>
+    <string name="action_settings">Parametres</string>
+    <string name="negative">-</string>
+    <string name="number">2</string>
+    <string name="positive">+</string>
+    <string name="price">$10</string>
+    <string name="order">ORDRE</string>
+    <string name="chocolate_fudge">Fondant au Chocolat</string>
+    <string name="name">Nom:</string>
+    <string name="order_summary">ORDRE SOMMAIRE</string>
+    <string name="toppings">GARNITURES</string>
+    <string name="whipped_cream">Creme Fouttee</string>
+    <string name="nutmeg">Noix de Muscade</string>
+    <string name="vanilla_powder">Poudre de Vanille</string>
+</resources>

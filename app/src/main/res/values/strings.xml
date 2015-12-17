@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Promise Cafe</string>
+    <string name="hello_world">QUANTITY</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name: </string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate_fudge">Chocolate Fudge</string>
+    <string name="negative">-</string>
+    <string name="number">2</string>
+    <string name="positive">+</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="price">$10</string>
+    <string name="order">ORDER</string>
+    <string name="vanilla_powder">Vanilla Powder</string>
+    <string name="nutmeg">Nutmeg</string>
+</resources>

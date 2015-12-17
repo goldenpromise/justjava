@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Student/AndroidStudioProjects/PromiseJustJava/app/src/main/res/values-es/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Student/AndroidStudioProjects/PromiseJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-es/values-es.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <!-- From: file:/C:/Users/Student/AndroidStudioProjects/PromiseJustJava/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Ajustes</string>
+    <string name="app_name">Promesa Cafe</string>
+    <string name="chocolate_fudge">Dulce de Chocolate</string>
+    <string name="hello_world">CANTIDAD</string>
+    <string name="name">Nombre:</string>
+    <string name="negative">-</string>
+    <string name="number">2</string>
+    <string name="nutmeg">Nuez Moscada</string>
+    <string name="order">ORDEN</string>
+    <string name="order_summary">RESUMEN DEL PEDIDO</string>
+    <string name="positive">+</string>
+    <string name="price">$10</string>
+    <!-- From: file:/C:/Users/Student/AndroidStudioProjects/PromiseJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-es/values-es.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <!-- From: file:/C:/Users/Student/AndroidStudioProjects/PromiseJustJava/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="toppings">COBERTURAS</string>
+    <string name="vanilla_powder">Vanilla en Polvo</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <!-- From: file:/C:/Users/Student/AndroidStudioProjects/PromiseJustJava/app/src/main/res/values-es/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- App branding color for the app bar -->
+        <item name="colorPrimary">#77613D</item>
+        <!-- Darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">#00796B</item>
+        <!-- Theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">#B7B26D</item>
+    </style>
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#8B7269</item>
+        <item name="android:textStyle">italic</item>
+
+    </style>
+</resources>

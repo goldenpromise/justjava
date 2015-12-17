@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Promesa Cafe</string>
+    <string name="hello_world">CANTIDAD</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="chocolate_fudge">Dulce de Chocolate</string>
+    <string name="name">Nombre:</string>
+    <string name="negative">-</string>
+    <string name="number">2</string>
+    <string name="positive">+</string>
+    <string name="price">$10</string>
+    <string name="toppings">COBERTURAS</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="order_summary">RESUMEN DEL PEDIDO</string>
+    <string name="order">ORDEN</string>
+    <string name="nutmeg">Nuez Moscada</string>
+    <string name="vanilla_powder">Vanilla en Polvo</string>
+</resources>
