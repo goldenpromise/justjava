@@ -79,10 +79,6 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-    /*private void displayMessage(String message) {
-        TextView orderSummaryTextView = (TextView) findViewById(R.id.order_summary_text_view);
-        orderSummaryTextView.setText(message);*/
-    }
 
     int quantity= 2;
     public void increment(View view){
